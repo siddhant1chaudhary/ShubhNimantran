@@ -1,0 +1,6 @@
+{
+  "name": "ShubhNimantran - Wedding Website & Invitation Builder",
+  "description": "Create bespoke digital wedding websites, interactive invites, multi-day ceremony timelines, RSVPs, photo stories, and export complete Next.js source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
